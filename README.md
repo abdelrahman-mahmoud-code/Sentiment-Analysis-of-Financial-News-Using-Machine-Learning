@@ -19,8 +19,6 @@ Financial sentiment analysis is a valuable tool for understanding market tone an
 - **Format:** CSV with two columns — `Label` and `Text`
 - **Source:** Malo et al. (2014) — *Good debt or bad debt: Detecting semantic orientations in economic texts*
 
-> Note: The dataset is not included in this repository. Place your CSV file in the same directory and upload it when prompted in the notebook.
-
 ---
 
 ## Project Pipeline
